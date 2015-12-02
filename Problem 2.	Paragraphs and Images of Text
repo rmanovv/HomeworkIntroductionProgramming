@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Paragraphs and Images of Text</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <p>Normal</p>
+        <p><b>Bold</b></p>
+        <p><i>Italic</i></p>
+        <p><u>Under line</u></p>
+        <p><strong>Strong</strong></p>
+        <p><em>Hello HTML</em></p>
+        <p>A<sup>2</sup></p>
+        <p>B<sub>2</sub></p>
+        <p><pre>Hello HTML</pre></p>
+        <br/>
+        <img width="200px" src="images/images.jpg">
+    </body>
+</html>
